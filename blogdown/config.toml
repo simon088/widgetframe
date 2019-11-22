@@ -21,7 +21,7 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     url = "https://twitter.com/bhaskar_vk"
 
 [params]
-    description = "Demo blog to showcase widgetframe + blogdown integration"
+    description = "Demo blog to showcase widgetframe"
 
     # options for highlight.js (version, additional languages, and theme)
     highlightjsVersion = "9.11.0"
